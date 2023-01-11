@@ -1,4 +1,4 @@
-> **Note**: Instructors, please update this `readme.md` file with information relevant to your course. Then, rename this repository to just `.github`.
+> **Note**: Instructors, please update this `readme.md` file with information relevant to your course. 
 
 # Welcome to Pursuit!
 
