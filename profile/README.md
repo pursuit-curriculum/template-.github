@@ -8,4 +8,4 @@ You may find the following links useful:
 
 - [Our Canvas Course](https://pursuit.instructure.com/courses/18)
 - [Angie's Office Hours Sign-up](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUNLM3dGSVE1cVdIfGRlZmF1bHR8ODFmNTMwYWE3NmExOGRmMTNkYTlhYTIyNDZmNTU0ODQ)
-- [Myra's Office Hours Sign-up]()
+- [Myra's Office Hours Sign-up](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU82OHN2c0NPRzNQfGRlZmF1bHR8Y2U5NmIzYWFmNTMyNGY4ODgzNDRiZTVlYjUzN2E3NTE)
